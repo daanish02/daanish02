@@ -1,6 +1,6 @@
 # Hey, I'm Danish Ahmed  
 
-I am an **AI/ML Engineer**, a **Data Scientist** and a **Solution Architect**.  
+I am an **AI/ML Engineer**, a **Data Scientist** and a **Solutions Architect**.  
 
 I build whatever stuff that comes to my mind, either out of boredom or out of necessity.  
 
